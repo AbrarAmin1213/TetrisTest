@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577695888388",
+    "firebase_url": "https://webglfirebasetest-default-rtdb.firebaseio.com",
+    "project_id": "webglfirebasetest",
+    "storage_bucket": "webglfirebasetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577695888388:android:632b94e4c5579e722df151",
+        "android_client_info": {
+          "package_name": "com.android.webgl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577695888388-7asrqhiili13e1p21m6j1v1605r19o3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClm0BH-qsoOoFuxjJbvNXJXRi915sb_ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577695888388-7asrqhiili13e1p21m6j1v1605r19o3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577695888388-1rhofmiscmatjgkioshch3efgmj0agq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.webgl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
